@@ -1,2 +1,1 @@
-# invie-github
-curso de Platzi
+git-practice
